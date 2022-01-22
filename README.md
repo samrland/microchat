@@ -2,6 +2,7 @@
 A program to chat with other micro:bits.
 
 ![Version](https://shields.io/github/v/release/samrcode/microchat?display_name=tag&sort=semver)
+![Build status badge](https://github.com/samrcode/microchat/workflows/MakeCode/badge.svg)
 
 Open this page at [https://samrcode.github.io/microchat/](https://samrcode.github.io/microchat/)
 
@@ -14,7 +15,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/samrcode/microchat** and import
 
-## Edit this project ![Build status badge](https://github.com/samrcode/microchat/workflows/MakeCode/badge.svg)
+## Edit this project
 
 To edit this repository in MakeCode.
 
