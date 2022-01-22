@@ -1,5 +1,9 @@
+# microchat
+A program to chat with other micro:bits.
 
-> Open this page at [https://samrcode.github.io/microchat/](https://samrcode.github.io/microchat/)
+![Version](https://shields.io/github/v/release/samrcode/somestrangegame?display_name=tag&sort=semver)
+
+Open this page at [https://samrcode.github.io/microchat/](https://samrcode.github.io/microchat/)
 
 ## Use as Extension
 
@@ -25,7 +29,9 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/samrcode/microchat/raw/master/.github/makecode/blocks.png)
 
+<!--
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+-->
