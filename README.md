@@ -1,7 +1,7 @@
 # microchat
 A program to chat with other micro:bits.
 
-![Version](https://shields.io/github/v/release/samrcode/somestrangegame?display_name=tag&sort=semver)
+![Version](https://shields.io/github/v/release/samrcode/microchat?display_name=tag&sort=semver)
 
 Open this page at [https://samrcode.github.io/microchat/](https://samrcode.github.io/microchat/)
 
